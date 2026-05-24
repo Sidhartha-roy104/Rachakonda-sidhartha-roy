@@ -114,7 +114,6 @@ A calm, distraction-free productivity web app designed to make consistency feel 
 
 - 🔥 **100-day LeetCode streak** — [siddartha_royyy](https://leetcode.com/siddartha_royyy)
 - 🏆 **HackerRank Coding Badge** — [@sidartharachako1](https://www.hackerrank.com/sidartharachako1)
-- 🎓 **CGPA: 10.0** in SSC | **8.7** in Diploma | **8.3** in BTech (ongoing)
 - 💡 Participated in multiple university-level hackathons
 
 ---
