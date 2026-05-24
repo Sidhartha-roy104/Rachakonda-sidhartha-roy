@@ -23,7 +23,7 @@
 
 I'm a **B.Tech CSE student** at the Institute of Aeronautical Engineering, Hyderabad (JNTUH), passionate about building full-stack applications and AI-powered systems that solve real-world problems.
 
-- 🎓 BTech CSE @ IARE, Hyderabad | CGPA: **8.3**
+
 - 🏗️ Currently building: **AI-based health analytics & marketplace platforms**
 - 🧠 Exploring: **LLMs, RAG pipelines, FastAPI, and React**
 - 💻 100-day LeetCode streak — always grinding DSA
@@ -80,7 +80,7 @@ I'm a **B.Tech CSE student** at the Institute of Aeronautical Engineering, Hyder
 
 ---
 
-### ♻️ Rubbish Revamp — Digital Recycling Marketplace *(March 2025)*
+### ♻️ Rubbish Revamp — Digital Recycling Marketplace *(March 2024)*
 > Full-stack platform connecting scrap sellers & buyers to streamline recycling workflows.
 
 - 🗃️ Normalized MySQL schema with complex JOIN queries for transactions
@@ -89,6 +89,15 @@ I'm a **B.Tech CSE student** at the Institute of Aeronautical Engineering, Hyder
 - **Stack:** Python · Node.js · MySQL · React.js · HTML · CSS · JavaScript
 
 ---
+ ### Sampūrṇ — Minimal Productivity & Pocket Notes App *(March 2026)*
+
+A calm, distraction-free productivity web app designed to make consistency feel visually satisfying through dopamine-based interactions and minimal UI.
+
+- ✅ Daily task tracking with smart emoji matching & streak system
+- 🫙 Animated jar progress visualization for completion-driven motivation
+- 📝 Pocket Notes feature with auto-save, searchable memory-like notes & glassmorphism popup UI
+- 📅 Calendar & History system with color-coded productivity tracking and midnight auto-reset
+- **Stack:** HTML · CSS · JavaScript · Firebase Auth · Firestore · Netlify
 
 ## 📜 Certifications
 
@@ -98,27 +107,6 @@ I'm a **B.Tech CSE student** at the Institute of Aeronautical Engineering, Hyder
 | Data Structures & Algorithms using Java | GeeksforGeeks |
 | Java Programming | Udemy |
 | Cloud Practitioner – Training Badge | AWS Cloud Quest |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidhartha-rachakonda&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidhartha-rachakonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhartha-rachakonda&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhartha-rachakonda&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
